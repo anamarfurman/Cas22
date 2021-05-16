@@ -81,6 +81,8 @@ namespace Cas222
                 Console.WriteLine("Uslov je ispunjen (NOT)");
             }
 
+            Console.WriteLine("***********************");
+
             i = 20;
             j = 21;
             k = 15;
